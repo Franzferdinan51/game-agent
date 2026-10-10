@@ -1,0 +1,1 @@
+{"Author":"Juno","Description":"HTTP control surface for the game-playing agent. Lets an external agent read game state and issue movement/interaction commands.","EntryDll":"GameAgentMod.dll","MinimumApiVersion":"4.0.0","Name":"GameAgent","UniqueID":"juno.gameagent","UpdateKeys":[],"Version":"1.0.0"}
